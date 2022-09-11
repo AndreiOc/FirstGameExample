@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 8bd51bf36dddfa048ad4bf2f0eb686de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fences_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 7}
+        - {x: -3, y: 6}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 3, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba47a61ce177c4a8c916277c0d1431
+      internalID: -341782449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -3, y: 6}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: -1, y: -8}
+        - {x: 1, y: -8}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 3, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: 4}
+        - {x: 8, y: 6}
+        - {x: 3, y: 6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad449a967653b24482f875d8925189b
+      internalID: 2071500222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223593a5866287458ec5046b79a80c9
+      internalID: -1454834180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -3, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: -2}
+        - {x: -3, y: -2}
+        - {x: -3, y: -3}
+        - {x: -3, y: -4}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: -1, y: -8}
+        - {x: 1, y: -8}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 3, y: -2}
+        - {x: 3, y: 6}
+        - {x: 2, y: 6}
+      - - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+      - - {x: 2, y: 6}
+        - {x: 2, y: 6}
+        - {x: 2, y: 6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c08cfacca8be349b75885abe9fbcaa
+      internalID: -1258371155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 1, y: 8}
+        - {x: -1, y: 8}
+        - {x: -2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 6}
+        - {x: -3, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -8}
+        - {x: -2, y: -8}
+        - {x: 2, y: -8}
+        - {x: 3, y: -8}
+        - {x: 3, y: -3}
+        - {x: 3, y: 6}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb276d0080bf446985538a100fd0e7
+      internalID: 475078460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294846df859ff584484951c147ec0eec
+      internalID: 480012226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a4a87e0a282a498f4da693cf29303
+      internalID: 956977476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff787f45b1acb43b8a6af8dba90a2b
+      internalID: -1040143378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 1, y: 8}
+        - {x: -1, y: 8}
+        - {x: -2, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 6}
+        - {x: -3, y: -3}
+        - {x: -3, y: -4}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -3}
+        - {x: 3, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d330ae8c3d8c1c4194b78eb1bb5ba7b
+      internalID: 1345281853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 1, y: 8}
+        - {x: -1, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 6}
+        - {x: -3, y: -3}
+        - {x: -3, y: -3}
+        - {x: -3, y: -4}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -2}
+        - {x: 8, y: 4}
+        - {x: 8, y: 6}
+        - {x: 3, y: 6}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f1a8dd4333134391df90a9b47fb30
+      internalID: -1248972368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145e0391faba1442900bb1c0987b3bb
+      internalID: 529661525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: 1, y: 8}
+        - {x: -1, y: 8}
+        - {x: -3, y: 8}
+        - {x: -3, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -3}
+        - {x: 3, y: 6}
+        - {x: 3, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9b6c9fee57f05448952087a9bec0fc
+      internalID: -1305704230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614dfd9a2394ec4f92cc649bb0533c8
+      internalID: -715202868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -3, y: 6}
+        - {x: -3, y: 4}
+        - {x: -3, y: -2}
+        - {x: -3, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -2}
+        - {x: 8, y: 6}
+        - {x: 5, y: 6}
+        - {x: 3, y: 6}
+        - {x: 2, y: 6}
+      - - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad172dffc7e9434a8da45ac1b45ce3d
+      internalID: -2096413426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -3, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: -2}
+        - {x: 8, y: 4}
+        - {x: 8, y: 6}
+        - {x: 3, y: 6}
+        - {x: 2, y: 6}
+      - - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ced1f370cbf049b757b7ad82e8139
+      internalID: 1064437276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fences_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -3, y: 6}
+        - {x: -8, y: 6}
+        - {x: -8, y: 4}
+        - {x: -8, y: -2}
+        - {x: -8, y: -4}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: 1, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: 4}
+        - {x: 3, y: 6}
+        - {x: 2, y: 6}
+      - - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+        - {x: -2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46d2d9d6ce522479750d55403a6cd8
+      internalID: 1447832434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fences_5: 480012226
+      Fences_6: 956977476
+      Fences_3: -1258371155
+      Fences_1: 2071500222
+      Fences_2: -1454834180
+      Fences_12: -715202868
+      Fences_11: -1305704230
+      Fences_14: 1064437276
+      Fences_10: 529661525
+      Fences_4: 475078460
+      Fences_13: -2096413426
+      Fences_8: 1345281853
+      Fences_0: -341782449
+      Fences_15: 1447832434
+      Fences_9: -1248972368
+      Fences_7: -1040143378
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
